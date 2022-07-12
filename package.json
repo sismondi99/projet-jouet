@@ -1,0 +1,13 @@
+{
+  "name": "chrildren-toy-project",
+  "version": "1.1.0",
+  "description": "final version of project",
+  "main": "back/index.js",
+  "scripts": {
+    "client-install": "npm i",
+    "client": "npm run start",
+    "start": "concurrently \"cd front&&npm run start\" \"cd back&&npm run dev\""
+  },
+  "author": "LI Sichen, Alexia Blum",
+  "license": "ISC"
+}
