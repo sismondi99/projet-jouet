@@ -1,5 +1,7 @@
 Projet jouet
 
+The aim goal was to build a website for selling with two accounts, seller and client.
+
 We used MERN to do this project,The project consists of two parts: back-end and front-end. 
 In order to start the back and front we used concurrently to do that, so you can
 use "npm i && npm start" to start the front and back.
