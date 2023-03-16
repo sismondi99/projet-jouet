@@ -8,6 +8,6 @@
     "client": "npm run start",
     "start": "concurrently \"cd front&&npm run start\" \"cd back&&npm run dev\""
   },
-  "author": "LI Sichen, Alexia Blum",
+  "author": "Sismondi Joel",
   "license": "ISC"
 }
